@@ -16,5 +16,5 @@ S ovim modelom možete klasificirat 5 vremenskih uvjeta.
 [Fakultet informatike u Puli](https://fipu.unipu.hr/)
 
 Neuronske mreže i duboko učenje , ak.god. 2023./2024.  
-Mentor: **Goran Oreški** (https://fipu.unipu.hr/fipu/goran.oreski, goran.oreski@unipu.hr)
+Mentor: ** doc. dr. sc. Goran Oreški** (https://fipu.unipu.hr/fipu/goran.oreski, goran.oreski@unipu.hr)
 
