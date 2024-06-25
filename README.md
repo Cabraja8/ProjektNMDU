@@ -8,7 +8,7 @@ S ovim modelom možete klasificirat 5 vremenskih uvjeta.
 
 ### Poveznica na model WeatherClassification:
 
- https://drive.google.com/file/d/1Tlqn--vSrsfS-SF57mCwJo0-PSxZY2Ph/view?usp=drive_link
+https://drive.google.com/file/d/1oENL5YmvSzy-CT-9d64z8lAXP9VWtN3x/view?usp=sharing
 
 # Organizacija
 
